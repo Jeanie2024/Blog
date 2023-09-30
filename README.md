@@ -12,6 +12,9 @@
   <div class="skills-container">
     <h1>My Skills</h1>
     <ul id="skills-list"></ul>
+    <li>Communication</li>
+    <li>Adaptability</li>
+    <li>Team collabration</li>
   </div>
 
   <script src="script.js"></script>
